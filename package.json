@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "name": "harsha-project-1",
+  "main": "index.html",
+  "keywords": [],
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "jquery": "3.5.1",
+    "@babel/core": "7.2.0"
+  },
+  "dependencies": {
+    "html": "1.0.0",
+    "javascript.js": "0.0.0",
+    "jquery": "3.5.1",
+    "lodash": "4.17.15"
+  },
+  "description": ""
+}
